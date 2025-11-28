@@ -5,6 +5,39 @@ MedWell adalah sebuah website edukasi kesehatan modern berbasis web yang bertuju
 Website ini dibangun menggunakan **HTML, CSS (Bootstrap), dan JavaScript**.
 
 ---
+## 👥 Tim Pengembang (Kelompok 1)
+
+Project **MedWell** dikembangkan oleh 3 anggota dengan pembagian tugas sebagai berikut:
+
+### 👤 Faza
+> **Project Leader & HTML Developer**
+
+- Bertanggung jawab penuh atas kerja sama tim
+- Mengatur struktur HTML dan flow website
+- Memimpin arahan dan konsep keseluruhan project
+- Mengawasi proses pengembangan Alfi dan Fia
+
+### 👤 Alfi
+> **CSS & Styling Developer**
+
+- Berfokus pada pembuatan dan pengaturan tampilan website
+- Mendesain layout, warna, responsivitas, dan visual UI
+- Mengembangkan file `style.css`
+- Masih berada di dalam bimbingan Faza
+
+### 👤 Fia
+> **JavaScript Developer**
+
+- Berfokus pada fungsionalitas website
+- Mengembangkan fitur:
+  - Kalkulator BMI
+  - Tips kesehatan acak
+- Mengelola file `script.js`
+- Masih berada di dalam bimbingan Faza
+
+---
+
+> Kolaborasi tim ini dibuat untuk melatih kerja kelompok dan meningkatkan keterampilan front-end web development dengan peran yang jelas dan terstruktur.
 
 ## 🌐 Fitur Utama
 
@@ -42,6 +75,4 @@ Tampilan utama website berisi:
 - Visual Studio Code
 
 ---
-
-## 📂 Struktur Folder
 
