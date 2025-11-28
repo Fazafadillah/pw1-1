@@ -2,7 +2,7 @@
 
 MedWell adalah sebuah website edukasi kesehatan modern berbasis web yang bertujuan membantu masyarakat memahami pentingnya pola hidup sehat melalui informasi yang mudah diakses dan dipahami.
 
-Website ini dibangun menggunakan **HTML, CSS (Bootstrap), dan JavaScript**.
+Website ini dibangun menggunakan **HTML, CSS (Bootstrap), dan JavaScript**. Dan konsep web ini Single Web Layout
 
 ---
 ## 👥 Tim Pengembang (Kelompok 1)
